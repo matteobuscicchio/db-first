@@ -22,3 +22,6 @@ e le potenziali colonne con i tipi di dato. -->
 - onLine_mode       TINYINT NOTNULL
 - digital_copy      TINYINT NUILL DEFAULT(0)
 - availability      TINYINT NUILL DEFAULT(0)
+- edition           VARCHAR(20) NOTNULL
+- description       TEXT NULL
+- vote              TEXT NULL
